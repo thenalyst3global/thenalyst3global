@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bernard-joseph-oyakhilome">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:jozefbernardonline@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail">
   </a>
   <a href="tel:+2348163507224">
-    <img src="https://img.shields.io/badge/Phone-Call-lightgrey?style=for-the-badge&logo=phone">
+    <img src="https://img.shields.io/badge/Phone-lightgrey?style=for-the-badge&logo=phone">
   </a>
 </p>
 
